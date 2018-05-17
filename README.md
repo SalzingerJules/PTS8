@@ -6,16 +6,13 @@ DERNIERS CHANGEMENTS / ETAT DES LIEUX
 
 Ajout du code d'Artieres : TERMINE
 
-Test du code d'Artieres : EN COURS
-- Entraînement : OK
-- Tests : EN COURS
-- Autres fonctions : A FAIRE
+Test du code d'Artieres : TERMINE
 
 Codes d'entraînement séparés : EN COURS
-- GAN seul : A TESTER
-- Création BDD : A FAIRE
-- REJECTOR seul : A FAIRE
-- CLASSIFIEUR seul : A ECRIRE (importer le modèle déjà prêt)
+- GAN seul : TERMINE
+- Création BDD : CODE TERMINES, A TESTER
+- REJECTOR seul : CODE EN COURS
+- CLASSIFIEUR seul : TERMINE
 
 Méthodes de références :
  - seuillage simple : OK
